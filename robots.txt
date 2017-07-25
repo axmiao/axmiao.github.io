@@ -8,5 +8,5 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: http://fyerl.me/sitemap.xml
-Sitemap: http://fyerl.me/baidusitemap.xml
+Sitemap: http://axmiao.github.io/sitemap.xml
+Sitemap: http://axmiao.github.io/baidusitemap.xml
