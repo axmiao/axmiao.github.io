@@ -6,9 +6,6 @@ date:   2017-07-24 13:57:00 +0800
 author: "axmiao"
 header-img: "img/post-bg-2017.jpg"
 categories: jekyll update
-catalog:true
-tags:
-    - 生活
 ---
 
 这是第一次自定义博客的尝试，从今天开始会一直不断的做出各种尝试，不断努力完善，希望这次尝试会有不一样的收获，如果可以，会尝试将豆瓣和csdn全部迁移至github。
