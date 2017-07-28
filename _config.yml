@@ -46,10 +46,10 @@ gems: [jekyll-paginate]
 
 # SNS settings
 RSS: false
-weibo_username:     zxmiao
+weibo_username:     axmiao
 zhihu_username:     an-xiao-43-22
 github_username:    axmiao
-#twitter_username:   huxpro
+twitter_username:   axmiao_
 #facebook_username:  huxpro
 # linkedin_username:  firstname-lastname-idxxxx
 
