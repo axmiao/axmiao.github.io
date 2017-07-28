@@ -46,8 +46,8 @@ gems: [jekyll-paginate]
 
 # SNS settings
 RSS: false
-weibo_username:     aniroca安晓
-zhihu_username:     安晓
+weibo_username:     zxmiao
+zhihu_username:     an-xiao-43-22
 github_username:    axmiao
 #twitter_username:   huxpro
 #facebook_username:  huxpro
