@@ -1,31 +1,20 @@
-> 写写代码，做做设计，  
-> 离开世界之前，一切都是过程。
+> 安安静静只做自己
+> 前路艰苦不忘初心
 
-Hey，我是黄玄，病毒种，进化程度不明，多出没于[博客](https://huangxuan.me)、[微博](weibo.com/huxpro)、[知乎](https://www.zhihu.com/people/huxpro/pins/posts)、[Twitter](https://twitter.com/Huxpro/)、[Github](http://github.com/huxpro)、[Medium](https://medium.com/@Huxpro) 等地带，绝招尚在开发中。
+Hey，你好，我是安晓喵，一只安静的前端小菜鸟。偶尔会出没在[知乎](https://www.zhihu.com/people/axmiao-43-22)啊，[微博](weibo.com/axmiao)啊、[博客](http://axmiao.top)啊这些地方，不过好像在哪里的存在感都不是很强呢（汗）
 
-职业是软件工程师，[Web 工会](https://medium.com/ben-and-dion/team-web-3315aa447fb2#.359a9c6cl)活跃成员。曾被招募为淘宝网 · [阿里旅行](http://alitrip.com)前端工程师、微影时代 · [微票儿](http://www.wepiao.com/?r=movie)前端基础工程团队负责人、[饿了么](https://ele.me/) · 大前端团队 · [PWA 顾问](https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509)。
+现在的职业是前端工程师，任职于一家新成立的科技公司，虽然资历尚浅，但也断断续续的完成了一些小项目，平时接触项目多为响应式的整站开发，多以企业站为主，偶尔也做一些微信小程序的开发，或者原生app内嵌web网页的构建。
 
-一些作品和开源软件项目，👉 戳 [Portfolio](/portfolio)、[Github](http://github.com/huxpro)、[演说.io](http://https://zhuanlan.zhihu.com/p/21280918)。 
+作为新人可能不能在自我简介里写很多的漂亮的履历了，那我就简单的介绍我自己吧。
 
+我17年夏天毕业于黑龙江大学数学科学学院，本科专业是数学与应用数学，听起来似乎与代码有些关系哈。但是实际上讲真没有很大的联系，虽然刚刚毕业几个月的事件，但是实际上从事前端的工作，到目前为止已经一年了，（大四出来工作一整年的孩子果真伤不起啊）。
 
-##### Talks
+而说到从事现在的职业，似乎是很小的时候就有的想法，并不是像很多因为生活所迫才来做这一行的小伙伴那样。可能因为喜欢这样的工作，并不觉得写代码是一件枯燥的事情，反而觉得能做出一个效果，完成一个项目是一件十分值得骄傲的事情。
 
-- [Upgrading to Progressive Web Apps][9] · [JSConf CN 上海 2017](http://2017.jsconf.cn/)
-- Building Progressive Web Apps · [CSDI 广州 2017](http://www.csdisummit.com/)
-- The State of Progressive Web App · GDG IO Redux 北京 2017
-- 炒冷饭 · PWA 到底是个什么玩意？· Baidu HQ 北京 2017
-- [Service Worker 101][5] · GDG DevFest 北京 2016
-- [Progressive Web App，复兴序章][4] · [QCon 上海 2016](http://2016.qconshanghai.com/presentation/3111)
-- Progressive Web App 之我见 · GDG IO Redux 北京 2016
-- [CSS Still Sucks 2015][2] · 2015
-- [JavaScript 模块化七日谈][1] · 2015
+平常的生活中大概就是那种不太会与人相处的类型，有很多时候和朋友在一起都不知道要聊什么才会不尴尬，所以养成了很宅很宅的性格，工作的时候宅在公司，休假了就宅在家里，宁可自己抱着一本古文辞典啃一天，也不喜欢跟朋友们相约出去浪（-_-!)不过如果跟一些码农小伙伴们讨论技术的时候倒是很有话聊的样子，唠叨起来有点没完没了的像个老奶奶。
 
-[1]: //huangxuan.me/2015/07/09/js-module-7day/
-[2]: //huangxuan.me/2015/12/28/css-sucks-2015/
-[3]: //huangxuan.me/2016/06/05/pwa-in-my-pov/
-[4]: //huangxuan.me/2016/10/20/pwa-qcon2016/
-[5]: //huangxuan.me/2016/11/20/sw-101-gdgdf/
-[6]: https://yanshuo.io/assets/player/?deck=58ac8598b123db0067292f92 "PWA Rehashing"
-[7]: https://yanshuo.io/assets/player/?deck=593ad6fbfe88c2006a0a0d6d "The State of PWA"
-[8]: https://yanshuo.io/assets/player/?deck=594d673d570c357d0698a950 "Building PWA"
-[9]: //huangxuan.me/jsconfcn2017/
+虽然现在的我还很菜，但是我相信只要不停的积累一些东西，就会发生神奇的质变，我想要把我在学习的过程中遇到的问题，解决的办法都整理总结出来，如果能帮助到其他人也算是一件很有意义的事情，如果不能，我也可以在下一次遇到这样的问题的时候翻出来看一看之前的解决办法。所以，就有了现在的这个博客空间啦~
+
+那么刚好逛到这里的小伙伴，如果能够在我的文章中找到解决你的问题的办法，我很欣慰，如果你有什么问题要跟我讨论，也欢迎你来找我讨论。首页的链接里有我的联系方式哟~
+
+如果以后我做了什么有趣的项目我也会在下面定期的把项目的地址贴出来的，不过现在还没有啦
