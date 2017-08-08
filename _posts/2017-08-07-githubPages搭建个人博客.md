@@ -76,3 +76,4 @@ ruby -v
 
 3.gem
 
+gem是集成在ruby中的包管理系统，类似于npm。当安装完ruby的时候一般gem已经自动安装，
