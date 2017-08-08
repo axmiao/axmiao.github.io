@@ -68,6 +68,7 @@ git --version
 
 ruby是一种简单快捷的面向对象（面向对象程序设计）脚本语言。Jekyll的运行需要ruby语言环境的支持，Windows系统中通过ruby-installer来安装ruby。[ruby-installer下载地址](https://rubyinstaller.org/downloads/)。如下图，在粉色方框区域选择对应自己系统版本的installer下载到本地。然后依旧是一路next直到安装结束，其中比较重要的是第二张图中选项，前两项要选上，尤其是第一项，一定要把ruby加入到环境变量中。不然还要在安装之后手动添加
 ![installer-list](/img/post_pic_03/post_03_03.png "installer-list")
+![installer-setting](/img/post_pic_03/post_03_04.png "installer-setting")
 安装完成之后依旧是命令行中通过查看版本号来验证是否安装成功。代码如下：
 ```
 ruby -v
