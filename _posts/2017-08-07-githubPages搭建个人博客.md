@@ -64,7 +64,7 @@ Jekyll是一个静态站点生成器，他会根据网页的源码生成静态�
 
 git是一款免费、开源的分布式版本控制系统，用于敏捷高效地处理任何或小或大的项目.[git的下载地址](https://git-scm.com/downloads)。下载对应自己电脑的版本到本地之后一路next就可以完成安装了。安装成功后在命令行中输入 
 ```
-git --version
+~ $ git --version
 ```
 如果输出git的版本号，说明git安装成功。
 
@@ -75,14 +75,14 @@ ruby是一种简单快捷的面向对象（面向对象程序设计）脚本语�
 ![installer-setting](/img/post_pic_03/post_03_04.png "installer-setting")
 安装完成之后依旧是命令行中通过查看版本号来验证是否安装成功。代码如下：
 ```
-ruby -v
+~ $ ruby -v
 ```
 
 3.gem
 
 gem是集成在ruby中的包管理系统，类似于npm。当安装完ruby的时候一般gem已经自动安装，同样的也是通过在命令行中查看gem版本号来确定gem是否已经被安装好了，代码如下：
 ```
-gem -v
+~ $ gem -v
 ```
 
 到这里我们需要用到的基础支持就基本上安装好了，下面我们来初始化我们的博客模板
@@ -118,7 +118,7 @@ gem -v
 此时远端仓库闯将完成。  
 现在回到本地,到目标文件目录中，右键点击GitBashHere，唤起git的终端面板，通过git命令将远端仓库克隆到本地。克隆命令如下：
 ```
-git clone repositorySSH
+~ $ git clone repositorySSH
 ```
 这时本地就会有一个命名为`username.github.io`空文件夹；
 
