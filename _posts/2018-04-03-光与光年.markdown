@@ -2,14 +2,15 @@
 layout: post
 title: "光与光年"
 subtitle: "一年又一年，我遇到了更好的自己"
-date:   2018-04-02 13:57:00 +0800
+date:   2018-04-03 13:57:00 +0800
 author: "axmiao"
-header-img: "img/post-bg-life.png"
+header-img: "img/post-bg-2017.jpg"
 categories: jekyll update
 catalog: true
 tags: 
-  	- 生活
+    - 生活
 ---
+
 
 > hey ,又一次遇见你。
 
