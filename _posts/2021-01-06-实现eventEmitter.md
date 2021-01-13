@@ -2,7 +2,7 @@
 layout: post
 title: "面试准备（5）-- 实现eventEmitter"
 subtitle: "关于事件分发"
-date:   202106-01- 10:57:00 +0800
+date:   2021-01-06 10:57:00 +0800
 author: "axmiao"
 header-img: "img/post-bg-20201215.png"
 categories: jekyll update
